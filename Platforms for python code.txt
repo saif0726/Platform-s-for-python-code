@@ -1,0 +1,33 @@
+PLATFORMS FOR WRITING PYTHON CODE 
+---------------------------------
+
+* What are the platforms available for writing the python course !
+ 
+1.python
+2.Notepad
+3.Notepad++
+4.subline
+5.pycharm
+6.spyder
+7.jupyter note book
+8.brackets
+9.atom
+10.thony
+11.microsoft visual studio code.
+
+--------------------------------------------------------------------
+
+* How to check whether python is installed in the system or not ?
+  
+ CMD---> command prompt
+ CMD---> windows pops up---> python---> version.
+ 
+--------------------------------------------------------------------
+
+* The python latest version is python 3.10.6
+
+--------------------------------------------------------------------
+
+* IDLE----> Integrated development learning environment.
+
+* IDE-----> Integrated development environment
